@@ -1,2 +1,2 @@
 # Leetcode_Daily_Feb_2023
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This repository contains my daily leetcode solutions for the month of February 2023!
